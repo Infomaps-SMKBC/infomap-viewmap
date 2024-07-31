@@ -1,0 +1,19 @@
+{
+    "name": "infomap/viewmap",
+    "description": "view map 2D",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Infomap\\Viewmap\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Patel Tarachand",
+            "email": "ptltarachand@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
